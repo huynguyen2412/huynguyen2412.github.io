@@ -146,3 +146,18 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.container{
+    display: flex;
+}
+
+.col-sm {
+  background-color: red;
+  border: 2 px solid red;
+}
+
+hr{
+  width: 50%;
+}
+
+
